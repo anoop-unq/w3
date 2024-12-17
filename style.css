@@ -55,6 +55,8 @@
     position: absolute;
     right: 15px;
     display: flex;
+    overflow-x: hidden;
+    scrollbar-width: none;
 }
 li{
     list-style: none;
